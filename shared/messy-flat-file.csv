@@ -1,0 +1,19 @@
+client_name,client_advisor,model_portfolio_name,instrument_ticker,instrument_name,target_weight_pct,subscribed_date
+Alice Johnson,Priya Shah,Balanced Growth,GLBEQ1,Global Equity Index Fund,40,2023-01-15
+Alice Johnson,Priya Shah,Balanced Growth,CORPB1,Sterling Corporate Bond Fund,30,2023-01-15
+Alice Johnson,Priya Shah,Balanced Growth,CASHGBP,Cash (GBP),30,2023-01-15
+Brian Osei,Daniel Osei,Adventurous Growth,GLBEQ1,Global Equity Index Fund,70,2023-03-01
+Brian Osei,Daniel Osei,Adventurous Growth,GILT10,UK 10-Year Gilt,20,2023-03-01
+Brian Osei,Daniel Osei,Adventurous Growth,CASHGBP,Cash (GBP),10,2023-03-01
+Carla Mendes,Priya Shah,Income Focus,CORPB1,Sterling Corporate Bond Fund,60,2022-11-01
+Carla Mendes,Priya Shah,Income Focus,GILT10,UK 10-Year Gilt,30,2022-11-01
+Carla Mendes,Priya Shah,Income Focus,CASHGBP,Cash (GBP),10,2022-11-01
+David Kim,Wei Zhang,Adventurous Growth,GLBEQ1,Global Equity Index Fund,70,2023-06-01
+David Kim,Wei Zhang,Adventurous Growth,GILT10,UK 10-Year Gilt,20,2023-06-01
+David Kim,Wei Zhang,Adventurous Growth,CASHGBP,Cash (GBP),10,2023-06-01
+Elena Petrova,Daniel Osei,Balanced Growth,GLBEQ1,Global Equity Index Fund,40,2022-09-01
+Elena Petrova,Daniel Osei,Balanced Growth,CORPB1,Sterling Corporate Bond Fund,30,2022-09-01
+Elena Petrova,Daniel Osei,Balanced Growth,CASHGBP,Cash (GBP),30,2022-09-01
+Farid Hossain,Fatima Al-Rashid,Income Focus,CORPB1,Sterling Corporate Bond Fund,60,2024-01-20
+Farid Hossain,Fatima Al-Rashid,Income Focus,GILT10,UK 10-Year Gilt,30,2024-01-20
+Farid Hossain,Fatima Al-Rashid,Income Focus,CASHGBP,Cash (GBP),10,2024-01-20
