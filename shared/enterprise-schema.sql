@@ -90,7 +90,12 @@ INSERT INTO clients (name, date_of_birth, risk_profile, advisor_id, joined_date)
     ('Grace Lin',       '1995-05-25', 'Adventurous', 3, '2023-04-01'),
     ('Harold Baxter',   '1955-02-14', 'Cautious',    1, '2015-07-01'),
     ('Isabel Marin',    '1980-09-09', 'Balanced',    4, '2019-10-12'),
-    ('Jack Whitfield',  '1968-03-03', 'Cautious',    2, '2016-05-20');
+    ('Jack Whitfield',  '1968-03-03', 'Cautious',    2, '2016-05-20'),
+    ('Nadia Farouk',     '1993-07-19', 'Balanced',    3, '2026-06-01');
+    -- Nadia is a newly onboarded prospective client: assigned an advisor, but
+    -- hasn't opened an account yet. Deliberately included so LEFT JOIN /
+    -- RIGHT JOIN produce NULLs for account columns, not just INNER JOIN
+    -- results that happen to look the same as an inner join.
 
 INSERT INTO accounts (client_id, account_type, opened_date, currency) VALUES
     (1, 'ISA',  '2019-02-01', 'GBP'),
