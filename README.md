@@ -1,7 +1,7 @@
-# Fidelity LEAP Program — Sprint 3 Lab Exercises
+# LEAP Program — Sprint 3 Lab Exercises
 
 This repository contains the hands-on lab exercises accompanying **Sprint 3: Data Systems and
-Data Modelling**, week 3 of the 11-sprint Fidelity LEAP graduate programme.
+Data Modelling**, week 3 of the 11-sprint LEAP graduate programme.
 
 ## Prerequisites
 

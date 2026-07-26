@@ -37,7 +37,7 @@ write throughput on time-series data (columnar). Don't choose it just because it
 this week's mission model is a textbook relational problem (structured entities, real
 relationships, correctness matters), and relational is still the right tool for it.
 
-## Part 4: Where this shows up at Fidelity (2 min)
+## Part 4: Where this shows up in practice (2 min)
 
 Narration: even in an organisation built on relational core systems, NoSQL patterns show up at
 the edges: a session cache in front of a web application (key-value), a document store holding
